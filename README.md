@@ -1,2 +1,3 @@
-# MovieApp
-Flutter Movie App
+# movieapp
+
+A new Flutter project Movies App.
